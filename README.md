@@ -1,3 +1,5 @@
+Ongoing walkthrough of series via repo files.
+
 # 🎓🔥 Cassandra Workshop Series 🔥🎓
 
 [![License Apache2](https://img.shields.io/hexpm/l/plug.svg)](http://www.apache.org/licenses/LICENSE-2.0)
