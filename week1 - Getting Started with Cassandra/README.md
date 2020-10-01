@@ -1,3 +1,5 @@
+Completed with workshop (09/10/20)
+
 🎓🔥 Welcome to WEEK 1 of the Cassandra Workshop Series 🔥🎓
 ======================================================
 
